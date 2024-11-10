@@ -1,0 +1,3 @@
+[submodule "HSR_Calculator"]
+	path = HSR_Calculator
+	url = https://github.com/JapanSG/HSR_Calculator.git
